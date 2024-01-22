@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey there! 👋🏻<br>I'm Yesha, a CSE college freshman with a deep love for innovation and technology (and a web developer in the making too😉)
+Hey there! 👋🏻<br>I'm Yesha, a CSE college freshman with a deep love for innovation and technology 
+(and a web developer in the making too😉)
 
 
 ## 🌐 Socials:
