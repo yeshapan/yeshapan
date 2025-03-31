@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 hello! I am Yesha, a CSE sophomore at university<br>👩🏻‍💻 I am currently working on trying to learn the MERN stack as well as Python's extended libraries<br>🔭 I am looking forward to learn more about data science<br>😊 I am looking for help with mentoring on in-depth of how to crack into tech and am looking for internship opportunities that would help me learn more about the various fascinating tools and technologies (esp building real-world projects in python and wedge my foot in the world of data science)<br>
+👋🏻 hello! I am Yesha, a CSE sophomore at university<br>👩🏻‍💻 I am currently working on trying to learn the MERN stack as well as Python's extended libraries<br>🔭 I am looking forward to learn more about machine learning<br>😊 I am looking for help with mentoring on in-depth of how to crack into tech and am looking for internship opportunities that would help me learn more about the various fascinating tools and technologies (esp building real-world projects in python and wedge my foot in the world of ML)<br>
 
 
 ## 🌐 Socials:
