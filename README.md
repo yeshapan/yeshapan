@@ -1,12 +1,12 @@
 ### Hi, I'm Yesha !!
-* CSE (undergrad) junior at uni majoring in AI/ML
+* CSE (undergrad) senior at uni specializing in AI/ML
 * Reads too many dystopian fantasy books
 * Likes starry skies
 
 (Thanks for stopping by!)
 
-### Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theyeshapandya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yesha-n-pandya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theyeshapandya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandya.yesha.n@gmail.com) 
+### Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yesha-n-pandya)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandya.yesha.n@gmail.com) 
 
 
 ### GitHub Stats:
